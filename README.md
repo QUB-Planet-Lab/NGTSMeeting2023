@@ -1,2 +1,2 @@
-# 2022 Sprint Website
-virtual SSSC readiness sprint website
+# 2023 Next-Generation Transit Survey Consortium Meeting
+Hybrid NGTS Consortium Meeting website
